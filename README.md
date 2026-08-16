@@ -19,7 +19,7 @@ server {
 	listen       80;
 	server_name  ct275-lab2.localhost;
 
-	root "D:/mysites/lab2/public";
+	root "D:/VSCode/Workspace/CT275DC01-lab2/public";
 	index index.php;
 
 	charset utf-8;
